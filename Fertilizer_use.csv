@@ -1,0 +1,501 @@
+Domain,Area Code,Area,Element,Item Code,Item,Year Code,Unit,Value,Flag Description
+Fertilizers,2,Afghanistan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,11.71,Calculated data
+Fertilizers,2,Afghanistan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.19,Calculated data
+Fertilizers,3,Albania,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,46.15,Calculated data
+Fertilizers,3,Albania,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,32.9,Calculated data
+Fertilizers,3,Albania,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.76,Calculated data
+Fertilizers,4,Algeria,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,11.83,Calculated data
+Fertilizers,4,Algeria,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,5.61,Calculated data
+Fertilizers,4,Algeria,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.16,Calculated data
+Fertilizers,7,Angola,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,4.91,Calculated data
+Fertilizers,7,Angola,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.01,Calculated data
+Fertilizers,7,Angola,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.68,Calculated data
+Fertilizers,8,Antigua and Barbuda,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,1.6,Calculated data
+Fertilizers,8,Antigua and Barbuda,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2,Calculated data
+Fertilizers,8,Antigua and Barbuda,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.4,Calculated data
+Fertilizers,9,Argentina,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,14.52,Calculated data
+Fertilizers,9,Argentina,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,11.62,Calculated data
+Fertilizers,9,Argentina,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.81,Calculated data
+Fertilizers,1,Armenia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,43.94,Calculated data
+Fertilizers,1,Armenia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.77,Calculated data
+Fertilizers,1,Armenia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.22,Calculated data
+Fertilizers,10,Australia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,28.04,Calculated data
+Fertilizers,10,Australia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,19.98,Calculated data
+Fertilizers,10,Australia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,5.16,Calculated data
+Fertilizers,11,Austria,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,78.95,Calculated data
+Fertilizers,11,Austria,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,28.4,Calculated data
+Fertilizers,11,Austria,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,25.7,Calculated data
+Fertilizers,52,Azerbaijan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,17.45,Calculated data
+Fertilizers,52,Azerbaijan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.08,Calculated data
+Fertilizers,52,Azerbaijan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.07,Calculated data
+Fertilizers,12,Bahamas,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,55.17,Calculated data
+Fertilizers,12,Bahamas,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,33.58,Calculated data
+Fertilizers,12,Bahamas,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,37.67,Calculated data
+Fertilizers,13,Bahrain,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,132.61,Calculated data
+Fertilizers,13,Bahrain,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,32.61,Calculated data
+Fertilizers,13,Bahrain,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,293.48,Calculated data
+Fertilizers,16,Bangladesh,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,153.7,Calculated data
+Fertilizers,16,Bangladesh,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,70.6,Calculated data
+Fertilizers,16,Bangladesh,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,44.68,Calculated data
+Fertilizers,14,Barbados,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,34.25,Calculated data
+Fertilizers,14,Barbados,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,9.67,Calculated data
+Fertilizers,14,Barbados,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,38.08,Calculated data
+Fertilizers,57,Belarus,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,76.53,Calculated data
+Fertilizers,57,Belarus,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,23.28,Calculated data
+Fertilizers,57,Belarus,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,90.33,Calculated data
+Fertilizers,255,Belgium,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,223,Calculated data
+Fertilizers,255,Belgium,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,27,Calculated data
+Fertilizers,255,Belgium,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,26.41,Calculated data
+Fertilizers,23,Belize,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,160.12,Calculated data
+Fertilizers,23,Belize,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,102.7,Calculated data
+Fertilizers,23,Belize,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,43.25,Calculated data
+Fertilizers,53,Benin,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,3.2,Calculated data
+Fertilizers,53,Benin,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.14,Calculated data
+Fertilizers,53,Benin,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.19,Calculated data
+Fertilizers,18,Bhutan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,8.76,Calculated data
+Fertilizers,18,Bhutan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.82,Calculated data
+Fertilizers,18,Bhutan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.91,Calculated data
+Fertilizers,19,Bolivia (Plurinational State of),Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,4.92,Calculated data
+Fertilizers,19,Bolivia (Plurinational State of),Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.83,Calculated data
+Fertilizers,19,Bolivia (Plurinational State of),Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.86,Calculated data
+Fertilizers,80,Bosnia and Herzegovina,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,98.89,Calculated data
+Fertilizers,80,Bosnia and Herzegovina,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,8.33,Calculated data
+Fertilizers,80,Bosnia and Herzegovina,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.96,Calculated data
+Fertilizers,20,Botswana,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,52.87,Calculated data
+Fertilizers,20,Botswana,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.99,Calculated data
+Fertilizers,20,Botswana,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.44,Calculated data
+Fertilizers,21,Brazil,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,44.23,Calculated data
+Fertilizers,21,Brazil,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,52.65,Calculated data
+Fertilizers,21,Brazil,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,61.14,Calculated data
+Fertilizers,26,Brunei Darussalam,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,22.09,Calculated data
+Fertilizers,26,Brunei Darussalam,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,21.09,Calculated data
+Fertilizers,26,Brunei Darussalam,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,21.27,Calculated data
+Fertilizers,27,Bulgaria,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,83.26,Calculated data
+Fertilizers,27,Bulgaria,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,16.04,Calculated data
+Fertilizers,27,Bulgaria,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.61,Calculated data
+Fertilizers,233,Burkina Faso,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,8.38,Calculated data
+Fertilizers,233,Burkina Faso,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.69,Calculated data
+Fertilizers,233,Burkina Faso,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.95,Calculated data
+Fertilizers,29,Burundi,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,2.98,Calculated data
+Fertilizers,29,Burundi,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.5,Calculated data
+Fertilizers,29,Burundi,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.97,Calculated data
+Fertilizers,115,Cambodia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,20.92,Calculated data
+Fertilizers,115,Cambodia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.82,Calculated data
+Fertilizers,115,Cambodia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.02,Calculated data
+Fertilizers,32,Cameroon,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,5.49,Calculated data
+Fertilizers,32,Cameroon,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.68,Calculated data
+Fertilizers,32,Cameroon,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.74,Calculated data
+Fertilizers,33,Canada,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,66,Calculated data
+Fertilizers,33,Canada,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,24.88,Calculated data
+Fertilizers,33,Canada,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,14.3,Calculated data
+Fertilizers,37,Central African Republic,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.12,Calculated data
+Fertilizers,37,Central African Republic,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.02,Calculated data
+Fertilizers,37,Central African Republic,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.19,Calculated data
+Fertilizers,40,Chile,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,185.85,Calculated data
+Fertilizers,40,Chile,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,93.83,Calculated data
+Fertilizers,40,Chile,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,28.75,Calculated data
+Fertilizers,351,China,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,228.48,Calculated data
+Fertilizers,351,China,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,116.4,Calculated data
+Fertilizers,351,China,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,101.56,Calculated data
+Fertilizers,96,"China, Hong Kong SAR",Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,NA,Not applicable
+Fertilizers,96,"China, Hong Kong SAR",Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,46.59,Calculated data
+Fertilizers,96,"China, Hong Kong SAR",Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,49.27,Calculated data
+Fertilizers,41,"China, mainland",Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,228.65,Calculated data
+Fertilizers,41,"China, mainland",Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,116.17,Calculated data
+Fertilizers,41,"China, mainland",Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,101.3,Calculated data
+Fertilizers,214,"China, Taiwan Province of",Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,191.91,Calculated data
+Fertilizers,214,"China, Taiwan Province of",Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,154.72,Calculated data
+Fertilizers,214,"China, Taiwan Province of",Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,145.79,Calculated data
+Fertilizers,44,Colombia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,182.94,Calculated data
+Fertilizers,44,Colombia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,85,Calculated data
+Fertilizers,44,Colombia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,94.97,Calculated data
+Fertilizers,46,Congo,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.71,Calculated data
+Fertilizers,46,Congo,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.89,Calculated data
+Fertilizers,46,Congo,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.14,Calculated data
+Fertilizers,47,Cook Islands,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,16.67,Calculated data
+Fertilizers,47,Cook Islands,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,13.33,Calculated data
+Fertilizers,47,Cook Islands,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,14,Calculated data
+Fertilizers,48,Costa Rica,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,156.86,Calculated data
+Fertilizers,48,Costa Rica,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,41.23,Calculated data
+Fertilizers,48,Costa Rica,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,92.19,Calculated data
+Fertilizers,107,Cote d'Ivoire,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,5.6,Calculated data
+Fertilizers,107,Cote d'Ivoire,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.01,Calculated data
+Fertilizers,107,Cote d'Ivoire,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.09,Calculated data
+Fertilizers,98,Croatia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,95.07,Calculated data
+Fertilizers,98,Croatia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,32.13,Calculated data
+Fertilizers,98,Croatia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,39.58,Calculated data
+Fertilizers,49,Cuba,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,24.5,Calculated data
+Fertilizers,49,Cuba,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,11.59,Calculated data
+Fertilizers,49,Cuba,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,14.44,Calculated data
+Fertilizers,50,Cyprus,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,63.36,Calculated data
+Fertilizers,50,Cyprus,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,38.79,Calculated data
+Fertilizers,50,Cyprus,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,21.89,Calculated data
+Fertilizers,167,Czechia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,123.64,Calculated data
+Fertilizers,167,Czechia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,15.13,Calculated data
+Fertilizers,167,Czechia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,10.31,Calculated data
+Fertilizers,250,Democratic Republic of the Congo,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,2.45,Calculated data
+Fertilizers,250,Democratic Republic of the Congo,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.06,Calculated data
+Fertilizers,250,Democratic Republic of the Congo,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.11,Calculated data
+Fertilizers,54,Denmark,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,91.08,Calculated data
+Fertilizers,54,Denmark,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,14.03,Calculated data
+Fertilizers,54,Denmark,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,27.1,Calculated data
+Fertilizers,55,Dominica,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,13,Calculated data
+Fertilizers,55,Dominica,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,13.87,Calculated data
+Fertilizers,55,Dominica,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,11.96,Calculated data
+Fertilizers,56,Dominican Republic,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,43.28,Calculated data
+Fertilizers,56,Dominican Republic,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,24.27,Calculated data
+Fertilizers,56,Dominican Republic,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.79,Calculated data
+Fertilizers,58,Ecuador,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,69.78,Calculated data
+Fertilizers,58,Ecuador,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,18.41,Calculated data
+Fertilizers,58,Ecuador,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,43.07,Calculated data
+Fertilizers,59,Egypt,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,358.57,Calculated data
+Fertilizers,59,Egypt,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,113.68,Calculated data
+Fertilizers,59,Egypt,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,17.36,Calculated data
+Fertilizers,60,El Salvador,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,66.55,Calculated data
+Fertilizers,60,El Salvador,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,21.51,Calculated data
+Fertilizers,60,El Salvador,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,16.75,Calculated data
+Fertilizers,178,Eritrea,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,2.21,Calculated data
+Fertilizers,178,Eritrea,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0,Calculated data
+Fertilizers,178,Eritrea,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0,Calculated data
+Fertilizers,63,Estonia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,67.87,Calculated data
+Fertilizers,63,Estonia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,18.68,Calculated data
+Fertilizers,63,Estonia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,29.5,Calculated data
+Fertilizers,238,Ethiopia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,9.7,Calculated data
+Fertilizers,238,Ethiopia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,7.35,Calculated data
+Fertilizers,238,Ethiopia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.13,Calculated data
+Fertilizers,66,Fiji,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,23.32,Calculated data
+Fertilizers,66,Fiji,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.55,Calculated data
+Fertilizers,66,Fiji,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,9.32,Calculated data
+Fertilizers,67,Finland,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,63.89,Calculated data
+Fertilizers,67,Finland,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,4.89,Calculated data
+Fertilizers,67,Finland,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,13.97,Calculated data
+Fertilizers,68,France,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,113.44,Calculated data
+Fertilizers,68,France,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,22.01,Calculated data
+Fertilizers,68,France,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,24.73,Calculated data
+Fertilizers,70,French Polynesia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,13.49,Calculated data
+Fertilizers,70,French Polynesia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,7.02,Calculated data
+Fertilizers,70,French Polynesia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.55,Calculated data
+Fertilizers,74,Gabon,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,7.83,Calculated data
+Fertilizers,74,Gabon,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.55,Calculated data
+Fertilizers,74,Gabon,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,4.73,Calculated data
+Fertilizers,75,Gambia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.52,Calculated data
+Fertilizers,75,Gambia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.22,Calculated data
+Fertilizers,75,Gambia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.28,Calculated data
+Fertilizers,73,Georgia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,94.24,Calculated data
+Fertilizers,73,Georgia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.9,Calculated data
+Fertilizers,73,Georgia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.53,Calculated data
+Fertilizers,79,Germany,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,141.91,Calculated data
+Fertilizers,79,Germany,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,23.87,Calculated data
+Fertilizers,79,Germany,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,33,Calculated data
+Fertilizers,81,Ghana,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,7.21,Calculated data
+Fertilizers,81,Ghana,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,5.07,Calculated data
+Fertilizers,81,Ghana,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.82,Calculated data
+Fertilizers,84,Greece,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,52.78,Calculated data
+Fertilizers,84,Greece,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,15.17,Calculated data
+Fertilizers,84,Greece,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,12.53,Calculated data
+Fertilizers,89,Guatemala,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,91.06,Calculated data
+Fertilizers,89,Guatemala,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,27.12,Calculated data
+Fertilizers,89,Guatemala,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,29.64,Calculated data
+Fertilizers,90,Guinea,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,1.12,Calculated data
+Fertilizers,90,Guinea,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.54,Calculated data
+Fertilizers,90,Guinea,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.54,Calculated data
+Fertilizers,91,Guyana,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,38.88,Calculated data
+Fertilizers,91,Guyana,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,13.47,Calculated data
+Fertilizers,91,Guyana,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.51,Calculated data
+Fertilizers,95,Honduras,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,30.72,Calculated data
+Fertilizers,95,Honduras,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,28.29,Calculated data
+Fertilizers,95,Honduras,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,20.64,Calculated data
+Fertilizers,97,Hungary,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,78.17,Calculated data
+Fertilizers,97,Hungary,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,17.75,Calculated data
+Fertilizers,97,Hungary,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,17.49,Calculated data
+Fertilizers,99,Iceland,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,94,Calculated data
+Fertilizers,99,Iceland,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,30.69,Calculated data
+Fertilizers,99,Iceland,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,23.06,Calculated data
+Fertilizers,100,India,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,102.51,Calculated data
+Fertilizers,100,India,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,41.18,Calculated data
+Fertilizers,100,India,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,14.17,Calculated data
+Fertilizers,101,Indonesia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,61.27,Calculated data
+Fertilizers,101,Indonesia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,17.11,Calculated data
+Fertilizers,101,Indonesia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,35.54,Calculated data
+Fertilizers,102,Iran (Islamic Republic of),Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,66.65,Calculated data
+Fertilizers,102,Iran (Islamic Republic of),Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,15.56,Calculated data
+Fertilizers,102,Iran (Islamic Republic of),Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,7.77,Calculated data
+Fertilizers,103,Iraq,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,30.54,Calculated data
+Fertilizers,103,Iraq,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.4,Calculated data
+Fertilizers,103,Iraq,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.47,Calculated data
+Fertilizers,104,Ireland,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,313,Calculated data
+Fertilizers,104,Ireland,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,118.3,Calculated data
+Fertilizers,104,Ireland,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,129.53,Calculated data
+Fertilizers,105,Israel,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,113.99,Calculated data
+Fertilizers,105,Israel,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,12.44,Calculated data
+Fertilizers,105,Israel,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,54.84,Calculated data
+Fertilizers,106,Italy,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,63.16,Calculated data
+Fertilizers,106,Italy,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,19.02,Calculated data
+Fertilizers,106,Italy,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,11.87,Calculated data
+Fertilizers,109,Jamaica,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,22.07,Calculated data
+Fertilizers,109,Jamaica,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,13.55,Calculated data
+Fertilizers,109,Jamaica,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.95,Calculated data
+Fertilizers,110,Japan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,79.87,Calculated data
+Fertilizers,110,Japan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,76.78,Calculated data
+Fertilizers,110,Japan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,51.51,Calculated data
+Fertilizers,112,Jordan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,109.25,Calculated data
+Fertilizers,112,Jordan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,405.55,Calculated data
+Fertilizers,112,Jordan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,268.21,Calculated data
+Fertilizers,108,Kazakhstan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,3.1,Calculated data
+Fertilizers,108,Kazakhstan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.12,Calculated data
+Fertilizers,108,Kazakhstan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.08,Calculated data
+Fertilizers,114,Kenya,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,21.01,Calculated data
+Fertilizers,114,Kenya,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.16,Calculated data
+Fertilizers,114,Kenya,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.02,Calculated data
+Fertilizers,118,Kuwait,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,260.52,Calculated data
+Fertilizers,118,Kuwait,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,91.34,Calculated data
+Fertilizers,118,Kuwait,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,382.01,Calculated data
+Fertilizers,113,Kyrgyzstan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,24.17,Calculated data
+Fertilizers,113,Kyrgyzstan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1,Calculated data
+Fertilizers,113,Kyrgyzstan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.04,Calculated data
+Fertilizers,119,Latvia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,61.32,Calculated data
+Fertilizers,119,Latvia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,19.7,Calculated data
+Fertilizers,119,Latvia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,23.18,Calculated data
+Fertilizers,121,Lebanon,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,77.14,Calculated data
+Fertilizers,121,Lebanon,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,133.35,Calculated data
+Fertilizers,121,Lebanon,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,20.57,Calculated data
+Fertilizers,124,Libya,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0,Calculated data
+Fertilizers,124,Libya,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,8.01,Calculated data
+Fertilizers,124,Libya,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.47,Calculated data
+Fertilizers,126,Lithuania,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,74.12,Calculated data
+Fertilizers,126,Lithuania,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,20.55,Calculated data
+Fertilizers,126,Lithuania,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,25.37,Calculated data
+Fertilizers,256,Luxembourg,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,197.36,Calculated data
+Fertilizers,256,Luxembourg,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,17.09,Calculated data
+Fertilizers,256,Luxembourg,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,17.09,Calculated data
+Fertilizers,129,Madagascar,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,1.43,Calculated data
+Fertilizers,129,Madagascar,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.65,Calculated data
+Fertilizers,129,Madagascar,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.85,Calculated data
+Fertilizers,130,Malawi,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,18.07,Calculated data
+Fertilizers,130,Malawi,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.64,Calculated data
+Fertilizers,130,Malawi,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,4.41,Calculated data
+Fertilizers,131,Malaysia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,36.22,Calculated data
+Fertilizers,131,Malaysia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,62.14,Calculated data
+Fertilizers,131,Malaysia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,115,Calculated data
+Fertilizers,132,Maldives,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,34.06,Calculated data
+Fertilizers,132,Maldives,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,38.26,Calculated data
+Fertilizers,132,Maldives,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,39.28,Calculated data
+Fertilizers,133,Mali,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,18.49,Calculated data
+Fertilizers,133,Mali,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,5.15,Calculated data
+Fertilizers,133,Mali,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,4.76,Calculated data
+Fertilizers,134,Malta,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,370.58,Calculated data
+Fertilizers,134,Malta,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.45,Calculated data
+Fertilizers,134,Malta,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.9,Calculated data
+Fertilizers,137,Mauritius,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,71.81,Calculated data
+Fertilizers,137,Mauritius,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,25.35,Calculated data
+Fertilizers,137,Mauritius,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,42.6,Calculated data
+Fertilizers,138,Mexico,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,67.86,Calculated data
+Fertilizers,138,Mexico,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,14.99,Calculated data
+Fertilizers,138,Mexico,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.6,Calculated data
+Fertilizers,141,Mongolia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,35.52,Calculated data
+Fertilizers,141,Mongolia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.53,Calculated data
+Fertilizers,141,Mongolia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.9,Calculated data
+Fertilizers,273,Montenegro,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,93.26,Calculated data
+Fertilizers,273,Montenegro,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,36.74,Calculated data
+Fertilizers,273,Montenegro,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,35.29,Calculated data
+Fertilizers,143,Morocco,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,25.36,Calculated data
+Fertilizers,143,Morocco,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,23.35,Calculated data
+Fertilizers,143,Morocco,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,11.56,Calculated data
+Fertilizers,144,Mozambique,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,1.77,Calculated data
+Fertilizers,144,Mozambique,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.51,Calculated data
+Fertilizers,144,Mozambique,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.99,Calculated data
+Fertilizers,28,Myanmar,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,9.89,Calculated data
+Fertilizers,28,Myanmar,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.67,Calculated data
+Fertilizers,28,Myanmar,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.79,Calculated data
+Fertilizers,147,Namibia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,17.25,Calculated data
+Fertilizers,147,Namibia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.88,Calculated data
+Fertilizers,147,Namibia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.63,Calculated data
+Fertilizers,148,Nauru,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0,Calculated data
+Fertilizers,148,Nauru,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0,Calculated data
+Fertilizers,148,Nauru,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0,Calculated data
+Fertilizers,149,Nepal,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,45.49,Calculated data
+Fertilizers,149,Nepal,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,20.13,Calculated data
+Fertilizers,149,Nepal,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.44,Calculated data
+Fertilizers,150,Netherlands,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,203.11,Calculated data
+Fertilizers,150,Netherlands,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,12.22,Calculated data
+Fertilizers,150,Netherlands,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,33.66,Calculated data
+Fertilizers,153,New Caledonia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,83.01,Calculated data
+Fertilizers,153,New Caledonia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,32.52,Calculated data
+Fertilizers,153,New Caledonia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,34.96,Calculated data
+Fertilizers,156,New Zealand,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,NA,Not applicable
+Fertilizers,156,New Zealand,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,NA,Not applicable
+Fertilizers,156,New Zealand,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,60.27,Calculated data
+Fertilizers,157,Nicaragua,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,30.56,Calculated data
+Fertilizers,157,Nicaragua,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,9.74,Calculated data
+Fertilizers,157,Nicaragua,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,7.63,Calculated data
+Fertilizers,158,Niger,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.45,Calculated data
+Fertilizers,158,Niger,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0,Calculated data
+Fertilizers,158,Niger,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.11,Calculated data
+Fertilizers,159,Nigeria,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,5.2,Calculated data
+Fertilizers,159,Nigeria,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.02,Calculated data
+Fertilizers,159,Nigeria,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.74,Calculated data
+Fertilizers,162,Norway,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,126.63,Calculated data
+Fertilizers,162,Norway,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,26.25,Calculated data
+Fertilizers,162,Norway,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,50.64,Calculated data
+Fertilizers,221,Oman,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0,Calculated data
+Fertilizers,221,Oman,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,34.42,Calculated data
+Fertilizers,221,Oman,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,131.21,Calculated data
+Fertilizers,165,Pakistan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,101.13,Calculated data
+Fertilizers,165,Pakistan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,31.78,Calculated data
+Fertilizers,165,Pakistan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.81,Calculated data
+Fertilizers,166,Panama,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,23.79,Calculated data
+Fertilizers,166,Panama,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,14.53,Calculated data
+Fertilizers,166,Panama,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,12.64,Calculated data
+Fertilizers,168,Papua New Guinea,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,20.68,Calculated data
+Fertilizers,168,Papua New Guinea,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.02,Calculated data
+Fertilizers,168,Papua New Guinea,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.7,Calculated data
+Fertilizers,169,Paraguay,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,25.04,Calculated data
+Fertilizers,169,Paraguay,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,40.38,Calculated data
+Fertilizers,169,Paraguay,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,30.48,Calculated data
+Fertilizers,170,Peru,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,51.01,Calculated data
+Fertilizers,170,Peru,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,14.21,Calculated data
+Fertilizers,170,Peru,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,15.38,Calculated data
+Fertilizers,171,Philippines,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,52.56,Calculated data
+Fertilizers,171,Philippines,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,11.22,Calculated data
+Fertilizers,171,Philippines,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,13.14,Calculated data
+Fertilizers,173,Poland,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,93.23,Calculated data
+Fertilizers,173,Poland,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,29.11,Calculated data
+Fertilizers,173,Poland,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,47.08,Calculated data
+Fertilizers,174,Portugal,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,64.26,Calculated data
+Fertilizers,174,Portugal,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,23.37,Calculated data
+Fertilizers,174,Portugal,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,16.95,Calculated data
+Fertilizers,179,Qatar,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,NA,Not applicable
+Fertilizers,179,Qatar,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0,Calculated data
+Fertilizers,179,Qatar,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,115.38,Calculated data
+Fertilizers,117,Republic of Korea,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,141.9,Calculated data
+Fertilizers,117,Republic of Korea,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,89.81,Calculated data
+Fertilizers,117,Republic of Korea,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,90.13,Calculated data
+Fertilizers,146,Republic of Moldova,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,14.06,Calculated data
+Fertilizers,146,Republic of Moldova,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.88,Calculated data
+Fertilizers,146,Republic of Moldova,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.99,Calculated data
+Fertilizers,183,Romania,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,38.93,Calculated data
+Fertilizers,183,Romania,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,14.45,Calculated data
+Fertilizers,183,Romania,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,4.65,Calculated data
+Fertilizers,185,Russian Federation,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,10.13,Calculated data
+Fertilizers,185,Russian Federation,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,3.75,Calculated data
+Fertilizers,185,Russian Federation,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.37,Calculated data
+Fertilizers,184,Rwanda,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,7.92,Calculated data
+Fertilizers,184,Rwanda,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,5.02,Calculated data
+Fertilizers,184,Rwanda,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.26,Calculated data
+Fertilizers,188,Saint Kitts and Nevis,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,5.88,Calculated data
+Fertilizers,188,Saint Kitts and Nevis,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,5.29,Calculated data
+Fertilizers,188,Saint Kitts and Nevis,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,5.29,Calculated data
+Fertilizers,189,Saint Lucia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,17.3,Calculated data
+Fertilizers,189,Saint Lucia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,10.2,Calculated data
+Fertilizers,189,Saint Lucia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,6.9,Calculated data
+Fertilizers,244,Samoa,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.03,Calculated data
+Fertilizers,244,Samoa,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.27,Calculated data
+Fertilizers,244,Samoa,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.03,Calculated data
+Fertilizers,194,Saudi Arabia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,71.46,Calculated data
+Fertilizers,194,Saudi Arabia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,93.66,Calculated data
+Fertilizers,194,Saudi Arabia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,3.5,Calculated data
+Fertilizers,195,Senegal,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,8.66,Calculated data
+Fertilizers,195,Senegal,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,4.7,Calculated data
+Fertilizers,195,Senegal,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.62,Calculated data
+Fertilizers,272,Serbia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,72.7,Calculated data
+Fertilizers,272,Serbia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,51.79,Calculated data
+Fertilizers,272,Serbia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,24.09,Calculated data
+Fertilizers,196,Seychelles,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,36.77,Calculated data
+Fertilizers,196,Seychelles,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,21.94,Calculated data
+Fertilizers,196,Seychelles,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,19.35,Calculated data
+Fertilizers,200,Singapore,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,NA,Not applicable
+Fertilizers,200,Singapore,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,263.64,Calculated data
+Fertilizers,200,Singapore,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0,Calculated data
+Fertilizers,199,Slovakia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,81.92,Calculated data
+Fertilizers,199,Slovakia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,15.41,Calculated data
+Fertilizers,199,Slovakia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,11.55,Calculated data
+Fertilizers,198,Slovenia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,119.25,Calculated data
+Fertilizers,198,Slovenia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,39.73,Calculated data
+Fertilizers,198,Slovenia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,48.53,Calculated data
+Fertilizers,202,South Africa,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,31.19,Calculated data
+Fertilizers,202,South Africa,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,16.14,Calculated data
+Fertilizers,202,South Africa,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,9.31,Calculated data
+Fertilizers,203,Spain,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,62.54,Calculated data
+Fertilizers,203,Spain,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,24.16,Calculated data
+Fertilizers,203,Spain,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,22.31,Calculated data
+Fertilizers,38,Sri Lanka,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,98.01,Calculated data
+Fertilizers,38,Sri Lanka,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,26.52,Calculated data
+Fertilizers,38,Sri Lanka,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,46.27,Calculated data
+Fertilizers,276,Sudan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,3.88,Calculated data
+Fertilizers,276,Sudan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.4,Calculated data
+Fertilizers,276,Sudan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.28,Calculated data
+Fertilizers,207,Suriname,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,68.69,Calculated data
+Fertilizers,207,Suriname,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.51,Calculated data
+Fertilizers,207,Suriname,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,14.69,Calculated data
+Fertilizers,210,Sweden,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,73.45,Calculated data
+Fertilizers,210,Sweden,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,11.05,Calculated data
+Fertilizers,210,Sweden,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,11.85,Calculated data
+Fertilizers,211,Switzerland,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,114.61,Calculated data
+Fertilizers,211,Switzerland,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,24.84,Calculated data
+Fertilizers,211,Switzerland,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,36.96,Calculated data
+Fertilizers,212,Syrian Arab Republic,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,3.91,Calculated data
+Fertilizers,212,Syrian Arab Republic,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0,Calculated data
+Fertilizers,212,Syrian Arab Republic,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.18,Calculated data
+Fertilizers,208,Tajikistan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,65.18,Calculated data
+Fertilizers,208,Tajikistan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.64,Calculated data
+Fertilizers,208,Tajikistan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.55,Calculated data
+Fertilizers,216,Thailand,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,80.74,Calculated data
+Fertilizers,216,Thailand,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,16.39,Calculated data
+Fertilizers,216,Thailand,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,26.71,Calculated data
+Fertilizers,154,The former Yugoslav Republic of Macedonia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,43.27,Calculated data
+Fertilizers,154,The former Yugoslav Republic of Macedonia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,10.04,Calculated data
+Fertilizers,154,The former Yugoslav Republic of Macedonia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,7.36,Calculated data
+Fertilizers,217,Togo,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.2,Calculated data
+Fertilizers,217,Togo,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.41,Calculated data
+Fertilizers,217,Togo,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2.3,Calculated data
+Fertilizers,219,Tonga,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,13.79,Calculated data
+Fertilizers,219,Tonga,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.17,Calculated data
+Fertilizers,219,Tonga,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,8.79,Calculated data
+Fertilizers,220,Trinidad and Tobago,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,138.3,Calculated data
+Fertilizers,220,Trinidad and Tobago,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,10.64,Calculated data
+Fertilizers,220,Trinidad and Tobago,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,40.43,Calculated data
+Fertilizers,222,Tunisia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,14.86,Calculated data
+Fertilizers,222,Tunisia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,1.95,Calculated data
+Fertilizers,222,Tunisia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,1.38,Calculated data
+Fertilizers,223,Turkey,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,62.11,Calculated data
+Fertilizers,223,Turkey,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,24.42,Calculated data
+Fertilizers,223,Turkey,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,5.5,Calculated data
+Fertilizers,226,Uganda,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,0.82,Calculated data
+Fertilizers,226,Uganda,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.66,Calculated data
+Fertilizers,226,Uganda,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.33,Calculated data
+Fertilizers,230,Ukraine,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,29.46,Calculated data
+Fertilizers,230,Ukraine,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,6.68,Calculated data
+Fertilizers,230,Ukraine,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,6.19,Calculated data
+Fertilizers,225,United Arab Emirates,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,200.13,Calculated data
+Fertilizers,225,United Arab Emirates,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,54.59,Calculated data
+Fertilizers,225,United Arab Emirates,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,159.12,Calculated data
+Fertilizers,229,United Kingdom,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,169.31,Calculated data
+Fertilizers,229,United Kingdom,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,31.02,Calculated data
+Fertilizers,229,United Kingdom,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,44.55,Calculated data
+Fertilizers,215,United Republic of Tanzania,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,4.89,Calculated data
+Fertilizers,215,United Republic of Tanzania,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,2.08,Calculated data
+Fertilizers,215,United Republic of Tanzania,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.66,Calculated data
+Fertilizers,231,United States of America,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,77.46,Calculated data
+Fertilizers,231,United States of America,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,26.82,Calculated data
+Fertilizers,231,United States of America,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,29.42,Calculated data
+Fertilizers,234,Uruguay,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,44.76,Calculated data
+Fertilizers,234,Uruguay,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,47.34,Calculated data
+Fertilizers,234,Uruguay,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,15.42,Calculated data
+Fertilizers,235,Uzbekistan,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,145.74,Calculated data
+Fertilizers,235,Uzbekistan,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,44.69,Calculated data
+Fertilizers,235,Uzbekistan,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,15,Calculated data
+Fertilizers,236,Venezuela (Bolivarian Republic of),Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,68.92,Calculated data
+Fertilizers,236,Venezuela (Bolivarian Republic of),Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,37.05,Calculated data
+Fertilizers,236,Venezuela (Bolivarian Republic of),Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,39.73,Calculated data
+Fertilizers,237,Viet Nam,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,155.2,Calculated data
+Fertilizers,237,Viet Nam,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,76.31,Calculated data
+Fertilizers,237,Viet Nam,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,52.01,Calculated data
+Fertilizers,249,Yemen,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,6.62,Calculated data
+Fertilizers,249,Yemen,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,0.36,Calculated data
+Fertilizers,249,Yemen,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,0.36,Calculated data
+Fertilizers,251,Zambia,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,43.15,Calculated data
+Fertilizers,251,Zambia,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,10.24,Calculated data
+Fertilizers,251,Zambia,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,2,Calculated data
+Fertilizers,181,Zimbabwe,Average use per area of cropland,3102,Nutrient nitrogen N (total),2015,kg/ha,10.39,Calculated data
+Fertilizers,181,Zimbabwe,Average use per area of cropland,3103,Nutrient phosphate P2O5 (total),2015,kg/ha,7.22,Calculated data
+Fertilizers,181,Zimbabwe,Average use per area of cropland,3104,Nutrient potash K2O (total),2015,kg/ha,4.73,Calculated data
